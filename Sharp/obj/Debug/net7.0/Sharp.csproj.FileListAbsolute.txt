@@ -1,0 +1,15 @@
+/workspaces/dotnet/Sharp/bin/Debug/net7.0/Sharp
+/workspaces/dotnet/Sharp/bin/Debug/net7.0/Sharp.deps.json
+/workspaces/dotnet/Sharp/bin/Debug/net7.0/Sharp.runtimeconfig.json
+/workspaces/dotnet/Sharp/bin/Debug/net7.0/Sharp.dll
+/workspaces/dotnet/Sharp/bin/Debug/net7.0/Sharp.pdb
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/Sharp.csproj.AssemblyReference.cache
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/Sharp.AssemblyInfoInputs.cache
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/Sharp.AssemblyInfo.cs
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/Sharp.csproj.CoreCompileInputs.cache
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/Sharp.dll
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/refint/Sharp.dll
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/Sharp.pdb
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/Sharp.genruntimeconfig.cache
+/workspaces/dotnet/Sharp/obj/Debug/net7.0/ref/Sharp.dll

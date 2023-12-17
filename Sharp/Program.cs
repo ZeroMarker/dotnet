@@ -66,3 +66,4 @@ Student lee = new Student(1, "Lee", 35);
 lee.show_name();
 
 
+lee.Linq();

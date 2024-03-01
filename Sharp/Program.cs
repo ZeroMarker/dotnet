@@ -7,6 +7,7 @@ Console.WriteLine("What's your name?");
 var hello = Console.ReadLine();
 Console.WriteLine(hello);
 
+// data type
 string name = "White";
 Console.WriteLine(name);
 
@@ -60,10 +61,10 @@ Console.WriteLine(arr[1, 1]);
 Person mark = new Person(1, "Mark", 23);
 
 Console.WriteLine(mark);
-mark.show_name();
+mark.Show_name();
 
 Student lee = new Student(1, "Lee", 35);
-lee.show_name();
+lee.Show_name();
 
-
+// linq
 lee.Linq();

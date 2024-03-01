@@ -18,7 +18,7 @@ namespace Sharp
             this.Name = Name;
             this.Age = Age;
         }
-        public void show_name()
+        public void Show_name()
         {
             Console.WriteLine(Name);
         }
